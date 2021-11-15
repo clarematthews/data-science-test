@@ -44,7 +44,7 @@ Data, 5(4), 91. <https://doi.org/10.3390/data5040091>
 
 #### Instructions
 
-This assignment will be described in multiple parts. You will need to
+Please use R or Python to complete this assignment. The assignment will be described in multiple parts. You will need to
 write a short report that answers the questions detailed below.
 For example, you could complete the entire assignment in a
 **R markdown** document that can be processed by knitr and be
