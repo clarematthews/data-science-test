@@ -86,9 +86,9 @@ Show any code that is needed to:
 ##### **Q2. Daily average heart rate pattern of subject 15**
 
 1.  Calculate the average of heart rate in hourly intervals for subject
-    15 across all days (in R, the function `hms::round_hms()` can be useful).
+    15 across all days provided (in R, the function `hms::round_hms()` can be useful).
 
-2.  Make a time series plot of the hourly intervals (x-axis) and the average heart rate, averaged across all days (y-axis).
+2.  Make a time series plot of the hourly intervals (x-axis) and the average heart rate, averaged across all days provided (y-axis).
 
 3.  At what time does the peak in the daily average heart rate occur?
 
@@ -99,7 +99,7 @@ scores.
 
 ##### **Q4. Correlation between questionnaires scores and participant characteristics**
 
-Is there any correlation between the participants’ characteristics and
+Is there any correlation between the participants’ characteristics (e.g. age) and
 their questionnaires’ scores?
 
 ### Submit your assignment
